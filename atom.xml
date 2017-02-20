@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sxsue.com/"/>
-  <updated>2017-02-20T09:52:06.000Z</updated>
+  <updated>2017-02-20T09:56:54.000Z</updated>
   <id>http://sxsue.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://sxsue.com/2017/02/20/%E4%B8%80%E4%B8%AA%E5%85%AC%E5%8F%B8%E7%9A%84%E6%9D%A5%E6%9D%A5%E5%8E%BB%E5%8E%BB/"/>
     <id>http://sxsue.com/2017/02/20/一个公司的来来去去/</id>
     <published>2017-02-20T09:50:45.000Z</published>
-    <updated>2017-02-20T09:52:06.000Z</updated>
+    <updated>2017-02-20T09:56:54.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="一个公司的来来去去"><a href="#一个公司的来来去去" class="headerlink" title="一个公司的来来去去"></a>一个公司的来来去去</h1><p>16年9月，整个移动团队完成了最基础的人员配置，也意味着一个完整的团队开始了齐发并行。</p>
+    <content type="html"><![CDATA[<p>16年9月，整个移动团队完成了最基础的人员配置，也意味着一个完整的团队开始了齐发并行。</p>
 <p>16年10月，我们开始筹备一个完全新的产品改版，将原来老的视觉UI进行更新，将原来旧的产品模式进行个性展示，甚至将整个产品的风格和方向开始转变，同时为后面的产品定位做基点。</p>
 <p>16年12月，真个产品面临全新的转型。</p>
 <p>17年2月，小20人的团队完全瓦解。</p>
@@ -33,7 +33,8 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;一个公司的来来去去&quot;&gt;&lt;a href=&quot;#一个公司的来来去去&quot; class=&quot;headerlink&quot; title=&quot;一个公司的来来去去&quot;&gt;&lt;/a&gt;一个公司的来来去去&lt;/h1&gt;&lt;p&gt;16年9月，整个移动团队完成了最基础的人员配置，也意味着一个完整的团队开始了齐发并行
+      &lt;p&gt;16年9月，整个移动团队完成了最基础的人员配置，也意味着一个完整的团队开始了齐发并行。&lt;/p&gt;
+&lt;p&gt;16年10月，我们开始筹备一个完全新的产品改版，将原来老的视觉UI进行更新，将原来旧的产品模式进行个性展示，甚至将整个产品的风格和方向开始转变，同时为后面的产品定位做基点。
     
     </summary>
     
